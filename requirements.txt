@@ -1,0 +1,6 @@
+feedparser
+psycopg2-binary
+sqlalchemy
+bertopic
+underthesea
+pandas
